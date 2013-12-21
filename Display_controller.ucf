@@ -1,0 +1,29 @@
+#PACE: Start of PACE I/O Pin Assignments
+# For device: Spartan-3E Start Kit
+
+NET "rst" LOC = "V16" | IOSTANDARD = LVCMOS33 | PULLDOWN ;
+
+#Reset and Clock
+NET "clk"     LOC = "C9" | IOSTANDARD = LVCMOS33;
+
+NET "LCD_E" LOC = "M18" | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "LCD_RS" LOC = "L18" | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "LCD_RW" LOC = "L17" | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+
+# The LCD four-bit data interface is shared with the StrataFlash.
+NET "SF_D[8]" LOC = "R15" | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "SF_D[9]" LOC = "R16" | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "SF_D[10]" LOC = "P17" | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "SF_D[11]" LOC = "M15" | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+
+#ALU control
+NET "t_ALUcontrol[0]" LOC = "L13" | IOSTANDARD = LVCMOS33 | PULLUP;
+NET "t_ALUcontrol[1]" LOC = "L14" | IOSTANDARD = LVCMOS33 | PULLUP;
+NET "t_ALUcontrol[2]" LOC = "H18" | IOSTANDARD = LVCMOS33 | PULLUP;
+#NET "switch<3>" LOC = "N17" | IOSTANDARD = LVCMOS33 | PULLUP;
+
+# LED
+NET "t_zero" LOC = "F12" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 4;
+NET "t_Overflow" LOC = "E12" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 4;
+#NET "led<2>" LOC = "E11" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 4;
+#NET "led<3>" LOC = "F11" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 4;
