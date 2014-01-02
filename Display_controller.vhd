@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
--- 
+-- Modified by Mingmin Bai and Tung Thanh Le, Ph.D. students @ CACS, UL Lafayette
 -- Create Date:    11:07:17 12/11/2013 
 -- Design Name: 
 -- Module Name:    Display_controller - Behavioral 

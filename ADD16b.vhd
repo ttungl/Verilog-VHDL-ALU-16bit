@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
--- 
+-- Tung Thanh Le, Ph.D. student @ CACS, UL Lafayette
 -- Create Date:    10:31:53 12/11/2013 
 -- Design Name: 
 -- Module Name:    ADD16b - Behavioral 

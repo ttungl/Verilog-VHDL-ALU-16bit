@@ -1,4 +1,4 @@
-
+# Modified by Mingmin Bai, Ph.D. student @ CACS, UL Lafayette
 # For device: Spartan-3E Start Kit
 
 NET "rst" LOC = "V16" | IOSTANDARD = LVCMOS33 | PULLDOWN ;

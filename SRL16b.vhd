@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
--- 
+-- Tung Thanh Le, Ph.D. student @ CACS, UL Lafayette
 -- Create Date:    10:48:35 12/11/2013 
 -- Design Name: 
 -- Module Name:    SRL16b - Behavioral 

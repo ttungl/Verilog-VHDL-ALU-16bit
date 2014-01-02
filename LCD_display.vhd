@@ -7,7 +7,7 @@
 -- |               0|
 -- +----------------+
 --
-
+-- Modified by Mingmin Bai, Ph.D. student @ CACS, UL Lafayette
 --
 -- The 2 x 16 character LCD on the board has an internal Sitronix ST7066U graphics 
 -- controller that is functionally equivalent with the following devices:

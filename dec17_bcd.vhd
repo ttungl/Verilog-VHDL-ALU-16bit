@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
--- 
+-- Modified by Mingmin Bai, Ph.D. student @ CACS, UL Lafayette
 -- Create Date:    22:39:14 12/10/2013 
 -- Design Name: 
 -- Module Name:    dec17_bcd - COMB 

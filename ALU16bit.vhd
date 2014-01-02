@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
--- 
+-- Tung Thanh Le, Ph.D. student @ CACS, UL Lafayette
 -- Create Date:    17:32:15 12/10/2013 
 -- Design Name: 
 -- Module Name:    ALU16bit - Behavioral 

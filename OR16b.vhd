@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
--- 
+-- Tung Thanh Le, Ph.D. student @ CACS, UL Lafayette
 -- Create Date:    10:35:25 12/11/2013 
 -- Design Name: 
 -- Module Name:    OR16b - Behavioral 
