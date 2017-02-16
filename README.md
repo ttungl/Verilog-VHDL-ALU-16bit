@@ -1,4 +1,4 @@
 # ALU 16-bit desgin
     Author: Tung Thanh Le
-    Contact: ttungl at gmail
+    Contact: ttungl at gmail dot com
 ALU 16-bit design with LCD display VHDL coding on Spartan 3E FPGA Starter kit.
